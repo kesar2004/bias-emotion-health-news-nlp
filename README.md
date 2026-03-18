@@ -166,8 +166,6 @@ jupyter notebook
 
 This repository contains a lightweight version of the project.  
 The full dataset is available via the link above due to size constraints.
-- Transformer models outperform traditional ML approaches  
-- Topic modeling reveals underlying themes in reporting  
 
 ---
 
