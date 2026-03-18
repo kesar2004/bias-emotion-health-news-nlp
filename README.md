@@ -91,12 +91,11 @@ Dataset Details:
 - Python 3.8+  
 
 ### Setup
-
 ```bash
 git clone https://github.com/your-username/bias-emotion-health-news-nlp.git
 cd bias-emotion-health-news-nlp
 pip install -r requirements.txt
-
+```
 
 ## 💻 Usage
 
@@ -104,6 +103,7 @@ Run the notebook:
 
 ```bash
 jupyter notebook
+```
 
 ## 🔄 Workflow
 
@@ -121,7 +121,23 @@ jupyter notebook
 
 ### 🔍 Key Insights
 
-- Emotionally intense articles tend to show higher bias  
+- Emotionally intense articles tend to show higher bias
+- Transformer models outperform traditional ML approaches
+- Topic modeling reveals underlying themes in reporting
+---
+
+
+
+## 📁 Project Structure
+``` bias-emotion-health-news-nlp/
+│── README.md
+│── requirements.txt
+│── bias_analysis_pipeline.ipynb
+│── data_sample.csv
+│── outputs/
+│   ├── topic_results.csv
+│   ├── emotion_predictions.csv
+```
 ---
 
 ## 🛠 Technologies Used
@@ -154,14 +170,4 @@ The full dataset is available via the link above due to size constraints.
 - Topic modeling reveals underlying themes in reporting  
 
 ---
-
-## 📁 Project Structure
-bias-emotion-health-news-nlp/
-│── README.md
-│── requirements.txt
-│── bias_analysis_pipeline.ipynb
-│── data_sample.csv
-│── outputs/
-│   ├── topic_results.csv
-│   ├── emotion_predictions.csv
 
