@@ -126,20 +126,6 @@ jupyter notebook
 - Topic modeling reveals underlying themes in reporting
 ---
 
-
-
-## 📁 Project Structure
-``` bias-emotion-health-news-nlp/
-│── README.md
-│── requirements.txt
-│── bias_analysis_pipeline.ipynb
-│── data_sample.csv
-│── outputs/
-│   ├── topic_results.csv
-│   ├── emotion_predictions.csv
-```
----
-
 ## 🛠 Technologies Used
 
 - Python  
