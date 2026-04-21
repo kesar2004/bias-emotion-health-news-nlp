@@ -6,7 +6,7 @@ A scalable NLP pipeline for detecting media bias, emotional framing, and potenti
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - Overview  
 - Features  
 - Dataset  
@@ -20,7 +20,7 @@ A scalable NLP pipeline for detecting media bias, emotional framing, and potenti
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 With the rapid growth of digital media, news platforms have become a major source of health-related information. However, biased reporting and emotionally charged content can significantly influence public perception.
 
@@ -33,7 +33,7 @@ The pipeline is designed to handle large-scale unstructured text data (50,000+ a
 
 ---
 
-## ✨ Features
+## Features
 
 - Large-scale NLP pipeline for 50K+ articles  
 - Transformer-based models (RoBERTa, DistilBERT)  
@@ -44,7 +44,7 @@ The pipeline is designed to handle large-scale unstructured text data (50,000+ a
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 Due to size constraints, the full dataset is not included in this repository.
 
@@ -59,7 +59,7 @@ Dataset Details:
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Text cleaning and normalization  
@@ -85,7 +85,7 @@ Dataset Details:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+  
@@ -97,7 +97,7 @@ cd bias-emotion-health-news-nlp
 pip install -r requirements.txt
 ```
 
-## 💻 Usage
+##  Usage
 
 Run the notebook:
 
@@ -105,7 +105,7 @@ Run the notebook:
 jupyter notebook
 ```
 
-## 🔄 Workflow
+## Workflow
 
 - Data preprocessing  
 - Model training and fine-tuning  
@@ -114,19 +114,19 @@ jupyter notebook
 
 ---
 
-## 📈 Results
+## Results
 
 - **Accuracy:** 86.3%  
 - **F1 Score:** 0.74  
 
-### 🔍 Key Insights
+### Key Insights
 
 - Emotionally intense articles tend to show higher bias
 - Transformer models outperform traditional ML approaches
 - Topic modeling reveals underlying themes in reporting
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas, NumPy  
@@ -138,7 +138,7 @@ jupyter notebook
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - Importance of clean and well-structured text data  
 - Effectiveness of transformer models for NLP tasks  
@@ -148,7 +148,7 @@ jupyter notebook
 
 ---
 
-## 📌 Note
+## Note
 
 This repository contains a lightweight version of the project.  
 The full dataset is available via the link above due to size constraints.
